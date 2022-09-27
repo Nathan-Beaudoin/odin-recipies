@@ -1,2 +1,3 @@
-# odin-recipies
-A project for making recipies in HTML &amp; CSS
+# odin-recipes
+A project for making recipes in HTML &amp; CSS
+
