@@ -1,3 +1,7 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .title {
     background-color: #f54242;
     color: #FFFFFF;
@@ -6,9 +10,23 @@
     font-weight: bold;
 }
 
-.paragraph {
-    background-color: #5df565;
-    color: #FFFFFF;
-    font-size: 18px;
-    font-weight: 700;
+.description {
+    background-color: #4281f5;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.ingredients  {
+    background-color: #e09200;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.steps {
+    background-color: #00e074;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
 }
